@@ -2,6 +2,8 @@
 use [OLO]
 go
 
+
+--Modificado
 declare @cad varchar(50)
 set  @cad='0123'-- @cad='0123|4567'
 
